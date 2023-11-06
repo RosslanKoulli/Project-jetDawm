@@ -1,2 +1,2 @@
 # Project-jetDawm
- This is a python game that utilise the Ursina library. It is an FPS Doom 
+ This is a python game that utilises the Ursina library. It is a 3D FPS. 
